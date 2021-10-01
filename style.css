@@ -1,0 +1,48 @@
+
+body{
+    margin: 0;
+      padding: 0;
+      width: 100vw;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      
+}
+h1{
+    text-align: center;
+}
+/* .face_check{
+    width: 40vw;
+    height: 40vw;
+    position: fixed;
+    transform: translate(-50%,-50%);
+   left: 50%;
+   top: 50%;
+}
+.face_check button{
+    
+    position: fixed;
+    border: 2px solid white;
+   
+   left: 42%;
+   right: 45%;
+   margin-top: 31vw;
+   padding: 1vw;
+   border-radius: 2vw;
+   width: 6vw;
+   font-size: 1.5vw;
+   
+    
+}
+*/
+/* .check{
+    width: 72vw;
+    height: 72vh;
+    position: fixed;
+  
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%,-50%);
+   
+}  */
